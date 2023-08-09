@@ -1,5 +1,7 @@
 # Algoritmo de Ordenação e Compreensão da Complexidade
 
+## Insertion Sort e o Selection Sort.
+
 ## Calculando e Compreendendo a Complexidade de Algoritmos 😃
 Este repositório tem como objetivo explorar a complexidade de algoritmos para além das abordagens lineares e quadráticas, mergulhando na análise da constante e seu impacto na capacidade de processamento computacional. Vamos destacar a importância de considerar o crescimento da curva de complexidade, especialmente quando lidamos com grandes volumes de dados. Além disso, vamos apresentar o conceito de análise assintótica e a notação "O grande" (Big O) para avaliar a eficiência dos algoritmos.
 
